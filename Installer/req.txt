@@ -1,0 +1,9 @@
+opencv-python
+numpy
+mediapipe
+flet
+openpyxl
+pyautogui
+flask
+scikit-learn
+pandas
